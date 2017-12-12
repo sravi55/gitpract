@@ -1,6 +1,4 @@
-public static void main(String args[]){
-public class login{
-int a,b,c;
-}
-}
+
+public class{
+Scanner scs =new Scanner(System.in);
 
