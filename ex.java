@@ -1,3 +1,3 @@
 public class{
-Scanner sc =new Scanner(System.in);
+Scanner scs =new Scanner(System.in);
 }
